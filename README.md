@@ -10,8 +10,7 @@ The system is designed for applications like **smart traffic monitoring**, **urb
 ---
 
 ## 📐 System Architecture
-
-![System Architecture](./architecture-diagram.png)
+![image](https://github.com/user-attachments/assets/48213a0d-51e2-4a72-a609-d13a66990ef0)
 
 ---
 
